@@ -1,4 +1,10 @@
-*.conf     text eol=lf
-Dockerfile text eol=lf
+* 						text=auto
 
-nginx.conf linguist-language=Nginx
+*.conf 				text eol=lf
+*.nginx 			text eol=lf
+Dockerfile 		text eol=lf
+.dockerignore text eol=lf
+Makefile 			text eol=lf
+
+*.conf	 linguist-detectable=true
+*.nginx  linguist-detectable=true
