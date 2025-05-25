@@ -1,0 +1,4 @@
+*.conf     text eol=lf
+Dockerfile text eol=lf
+
+nginx.conf linguist-language=Nginx
