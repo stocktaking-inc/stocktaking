@@ -1,6 +1,13 @@
+.git/
+.idea/
+
+backend/
+certs/
+frontend/
+
 .czrc
+.editorconfig
 
 .gitattributes
 .gitignore
-
 Makefile
