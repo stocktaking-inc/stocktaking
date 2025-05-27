@@ -1,0 +1,10 @@
+* 						text=auto
+
+*.conf 				text eol=lf
+*.nginx 			text eol=lf
+Dockerfile 		text eol=lf
+.dockerignore text eol=lf
+Makefile 			text eol=lf
+
+*.conf	 linguist-detectable=true
+*.nginx  linguist-detectable=true
