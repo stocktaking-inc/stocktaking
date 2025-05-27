@@ -2,7 +2,6 @@
 .idea/
 
 backend/
-certs/
 frontend/
 
 .czrc
